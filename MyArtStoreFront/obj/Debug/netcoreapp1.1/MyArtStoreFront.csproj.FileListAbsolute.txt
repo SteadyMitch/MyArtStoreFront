@@ -1,0 +1,10 @@
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/bin/Debug/netcoreapp1.1/MyArtStoreFront.deps.json
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/bin/Debug/netcoreapp1.1/MyArtStoreFront.runtimeconfig.json
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/bin/Debug/netcoreapp1.1/MyArtStoreFront.runtimeconfig.dev.json
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/bin/Debug/netcoreapp1.1/MyArtStoreFront.dll
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/bin/Debug/netcoreapp1.1/MyArtStoreFront.pdb
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/obj/Debug/netcoreapp1.1/MyArtStoreFront.csprojResolveAssemblyReference.cache
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/obj/Debug/netcoreapp1.1/MyArtStoreFront.csproj.CoreCompileInputs.cache
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/obj/Debug/netcoreapp1.1/MyArtStoreFront.AssemblyInfo.cs
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/obj/Debug/netcoreapp1.1/MyArtStoreFront.dll
+/Users/mitch/Projects/MyArtStoreFront/MyArtStoreFront/obj/Debug/netcoreapp1.1/MyArtStoreFront.pdb
