@@ -26,6 +26,8 @@ Bin/
 obj/
 Obj/
 
+/MyArtStoreFront/bin/*
+
 # Visual Studio 2015 cache/options directory
 .vs/
 /wwwroot/dist/
@@ -188,6 +190,10 @@ orleans.codegen.cs
 /yarn.lock
 
 /.vscode
+
+/bin
+
+/obj
 
 # RIA/Silverlight projects
 Generated_Code/
